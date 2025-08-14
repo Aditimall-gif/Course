@@ -1,0 +1,240 @@
+.slide{
+    height: 450px;
+    width: 100%;
+    /* background-color: beige; */
+}
+ul{
+    font-size: 25px;
+    margin-left: 250px;
+    line-height: 10px;
+}
+a{
+    margin-left: 40px;
+    color: black;
+}
+a:hover{
+    background-color: rgb(180, 113, 113);
+    height:45px ;
+    width: 100px;
+    border-radius: 10px;
+}
+.btn1{
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+.btn2{
+    height: 45px;
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 25px;
+     background-color: orange;
+}
+.nav-a{
+    color: black;
+    padding-top: 15px;
+}
+
+.c1{
+    height: 160px;
+    width: 300px;
+    margin-top: 400px;
+    transform: translateX(160px);
+    margin-left: 70px;
+    background-color:rgb(217, 209, 209);
+    border-radius: 20px;
+    float: left;
+}
+.img-card{
+    height: 60px;
+    width: 70px;
+    position: absolute;
+    top: 50px;
+    left: 15px;
+    background:rgba(217, 209, 209) ;
+}
+.upper{
+    height: 600px;
+    background-image: url('./images/lib4.jpg');
+}
+.our-card{
+   height: 570px;
+   margin-top: 50px;
+   margin-left: 25px;
+   
+}
+.heading{
+    padding-top: 180px;
+    padding-left: 430px;
+    font-size: 50px;
+}
+.title{
+    color: gray;
+}
+.h6{
+    color: rgb(3, 3, 75);
+    font-size: 18px;
+}
+.checked{
+    color: orange;
+}
+b{
+    
+margin-left: 130px;
+}
+.star-span{
+    color: rgb(140, 138, 138);
+}
+.btn{
+    background-color: whitesmoke;
+    color: black;
+    height: 45px;
+    width: 300px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.btn:hover{
+    height: 47px;
+    width: 305px;
+}
+.head5{
+    margin-top: 150px;
+    font-size: 25px;
+    color: rgb(3, 3, 75);
+    word-spacing: 8px;
+}
+.para{
+    padding-top: 15px;
+    line-height: 27px;
+}
+.para-h6{
+padding-left: 50px;
+padding-top: 30px;
+line-height: 25px;
+}
+.video{
+    margin-left: 300px;
+    margin-top: 300px;
+}
+.h2{
+    font-size: 30px;
+    color: rgb(3, 3, 75);
+    margin-top: 100px;
+     text-align: center;
+
+}
+.grallery{
+    height: 200px;
+    width: 300px;
+    margin-top: 30px;
+}
+.btn3{
+    height: 45px;
+    width: 300px;
+    border: 1px solid orange;
+    color: orange;
+    margin-left: 600px;
+    margin-top: 50px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+
+}
+.btn3:hover{
+    height: 50px;
+    width: 305px;
+}
+.images{
+    height: 500px;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 100px;
+    border-radius: 50px;
+
+}
+
+.h3{
+      margin-top: 100px;
+      color: rgb(3, 3, 75);
+      font-size: 35px;
+      text-align: center;
+    
+
+}
+.img-photo{
+    height: 200px;
+    width: 200px;
+    margin-top: 70px;
+    border-radius: 50%;
+    margin-left: 50px;
+ }
+ .h4{
+    padding-left: 150px;
+    padding-top: 40px;
+    color: rgb(3, 3, 75);
+
+ }
+ .name{
+    padding-left: 80px;
+    padding-top: 10px;
+    color: black;
+    font-size: 15px;
+ }
+ .lib4{
+    height: 350px;
+    width:700px;
+    margin-top: 100px;
+    margin-left:-150px;
+ }
+ .btn4{
+    height: 45px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: orange;
+    border: none;
+ }
+ .container-footer{
+    height: 600px;
+    width: 100%;
+    background-color: blue;
+ }
+ .book{
+    color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+
+ }
+ .text{
+    font-size: 40px;
+    color: white;
+    margin-left: 220px;
+    margin-top: -75px;
+ }
+ .para-p{
+    padding-left: 100px;
+    padding-top: 30px;
+    color: white;
+    font-size: 20px;
+ }
+ .twitter{
+    margin-left: 130px;
+ }
+ .ul{
+    list-style: none;
+    line-height: 30px;
+ }
+ .head-h3{
+    margin-left: 130px;
+    margin-top: 130px;
+    font-size: 25px;
+    color: white;
+ }
+ .li{
+    margin-top: 20px;
+    margin-left: -150px;
+    font-size: 18px;
+    color: white;
+ }
